@@ -1,0 +1,54 @@
+# Virtual Environment
+venv/
+.venv/
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data Files
+data/
+*.xlsx
+*.csv
+*.xls
+
+# Logs
+*.log
+logs/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Distribution Files
+dist/
+build/
+*.egg-info/
+*.whl
+*.tar.gz
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
