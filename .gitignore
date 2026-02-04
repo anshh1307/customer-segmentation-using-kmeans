@@ -25,11 +25,6 @@ venv.bak/
 # Jupyter Notebooks
 .ipynb_checkpoints
 
-# Data Files
-data/
-*.xlsx
-*.csv
-*.xls
 
 # Logs
 *.log
